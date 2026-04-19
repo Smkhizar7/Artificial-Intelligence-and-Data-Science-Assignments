@@ -1,1 +1,1 @@
-# Artificial-Intelligence-and-Data-Science-Assignments
+# Artificial-Intelligence-and-Data-Science
